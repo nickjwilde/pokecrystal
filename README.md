@@ -41,8 +41,8 @@ Other disassembly projects:
 [pokefirered]: https://github.com/pret/pokefirered
 [pokeemerald]: https://github.com/pret/pokeemerald
 [docs]: https://pret.github.io/pokecrystal/
-[wiki]: https://github.com/pret/pokecrystal/wiki
-[tutorials]: https://github.com/pret/pokecrystal/wiki/Tutorials
+[wiki]: https://github.com/nickjwilde/pokecrystal/wiki
+[tutorials]: https://github.com/nickjwilde/pokecrystal/wiki/Tutorials
 [discord]: https://discord.gg/d5dubZ3
 [irc]: https://web.libera.chat/?#pret
 [ci]: https://github.com/pret/pokecrystal/actions
